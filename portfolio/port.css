@@ -6,7 +6,7 @@
 
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background-color: #ffe6f0; /* Soft baby pink */
+  background-color: #ffe6f0;
   color: #333;
   line-height: 1.6;
   padding: 1rem;
@@ -15,7 +15,7 @@ body {
 }
 
 header {
-  background-color: #ffccda; /* Light pink */
+  background-color: #ffccda;
   padding: 1.5rem;
   text-align: center;
   border-radius: 10px;
